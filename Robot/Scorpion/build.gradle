@@ -1,0 +1,8 @@
+dependencies {
+    implementation project(':Robot:Common')
+    implementation project(':TeamLibrary')
+
+    implementation vendor('AdvantageKit')
+    implementation vendor('CTRE-Phoenix (v5)')
+    implementation vendor('CTRE-Phoenix (v6)')
+}

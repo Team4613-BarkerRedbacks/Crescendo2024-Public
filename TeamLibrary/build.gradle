@@ -1,0 +1,6 @@
+dependencies {
+    implementation project(':Limelight')
+
+    implementation vendor('AdvantageKit')
+    implementation vendor('CTRE-Phoenix (v6)')
+}

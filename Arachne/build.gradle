@@ -1,0 +1,5 @@
+dependencies {
+    implementation vendor('AdvantageKit')
+
+    implementation 'io.github.classgraph:classgraph:4.8.177'
+}
